@@ -1,0 +1,1 @@
+I used backtracking algorithm to return all possible subsets.
